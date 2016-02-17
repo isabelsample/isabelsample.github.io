@@ -1,6 +1,7 @@
 body {
 	background: url(http://i.imgur.com/2ySS7RT.jpg);
 	background-size: cover;
+	font-weight: bold;
 	text-align: center;
 	color: white;
 	margin: 20px;
@@ -18,26 +19,21 @@ h1 {
 	font-size: 60px;
 	font-family: "Courier New";
 	text-transform: uppercase;
-	font-weight: bold;
 }
 p {
 	font-family: Helvetica;
 	font-size: 18;
-	font-weight: none;
 }
 ul {
 	list-style-type: none;
-	font-size: 18px;
+	font-size: 16px;
 	text-transform: uppercase;
-	font-family: Helvetica;
-	font-weight: bold;
+	font-family: Arial;
 }
 a:link {
 	text-decoration: none;
 	color: white;
-	font-weight: bold;
 }
 a:hover {
 	color: hotpink;
-	font-weight: bold;
 }
