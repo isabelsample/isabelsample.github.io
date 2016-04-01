@@ -48,8 +48,12 @@ nav a {
 	display: inline-block;
 }
 
-#two_column {
-	background-color: #FFB7CF;
+section {
+	background: #FFB7CF;
+	overflow: auto;
+}
+
+div {
 	font-size: 1.2em;
 	width: 46%;
 	padding: 2%;
