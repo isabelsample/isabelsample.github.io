@@ -21,20 +21,21 @@ h1 {
 	display: inline-block;
 	font-weight: 800;
 	font-size: 2em;
+	background: #222;
+  	color: #fff;
+  	overflow: auto;
 }
 
 
 a:link {
 	text-decoration: none;
-	color: white;
+	color: #222;
 }
 a:hover {
 	color: hotpink;
 }
 
 header {
-	background-color: #FFED74;
-	border: 1px black solid;
 	padding: 20px;
 }
 
@@ -52,7 +53,6 @@ nav a {
 
 #two_column {
 	background-color: #FFB7CF;
-	border: 1px black solid;
 	font-size: 1.2em;
 	width: 46%;
 	padding: 2%;
@@ -71,9 +71,7 @@ nav a {
 }
 
 footer {
-	background: #222;
-  	color: #fff;
-  	overflow: auto;
+	color: #222;
 	text-align: center;
 	padding: 1em 0;
 	clear: both;
