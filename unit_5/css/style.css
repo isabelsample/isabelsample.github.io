@@ -64,7 +64,7 @@ nav {
 }
 
 #left {
-	background-color: violet;
+	background-color: #E582A2;
 	border: 1px black solid;
 	padding: 20px;
 	float: left;
@@ -72,7 +72,7 @@ nav {
 }
 
 #right {
-	background-color: pink;
+	background-color: #E55B88;
 	border: 1px black solid;
 	padding: 20px;
 	float: right;
@@ -83,4 +83,13 @@ footer {
 	background-color: #FF957E;
 	border: 1px black solid;
 	padding: 20px;
+}
+
+.clearfix:after {
+	visibility: hidden;
+	display: block;
+	font-size: 0;
+	content: " ";
+	clear: both;
+	height: 0;
 }
