@@ -1,0 +1,70 @@
+@import url(https://fonts.googleapis.com/css?family=Permanent+Marker);
+@import url(https://fonts.googleapis.com/css?family=BenchNine);
+@import url(https://fonts.googleapis.com/css?family=Roboto+Condensed);
+
+
+body {
+	background: url(http://i.imgur.com/2ySS7RT.jpg);
+	background-size: cover;
+	font-weight: bold;
+	text-align: center;
+	color: white;
+	margin: 20px;
+	padding: 40px;
+}
+hr {
+	width: 300px;
+}
+#slogan {
+	font-style: bold;
+	font-size: 23px;
+	font-family: 'Roboto Condensed', sans-serif;
+}
+h1 {
+	font-size: 65px;
+	font-family: 'Permanent Marker', cursive;
+	text-transform: uppercase;
+}
+p {
+	font-family: 'Roboto Condensed', sans-serif;
+	font-size: 20;
+}
+ul {
+	list-style: none;
+	font-size: 20px;
+	text-transform: uppercase;
+	font-family: 'BenchNine', sans-serif;
+	margin: 0;
+	padding: 0;
+}
+a:link {
+	text-decoration: none;
+	color: white;
+}
+a:hover {
+	color: hotpink;
+}
+
+header {
+	background-color: #FFED74;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+nav {
+	background-color: #E8C66A;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+aside {
+	background-color: #FFC675;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+footer {
+	background-color: #FF957E;
+	border: 1px black solid;
+	padding: 20px;
+}
