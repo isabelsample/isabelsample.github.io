@@ -1,0 +1,89 @@
+@import url(https://fonts.googleapis.com/css?family=Permanent+Marker);
+@import url(https://fonts.googleapis.com/css?family=BenchNine);
+@import url(https://fonts.googleapis.com/css?family=Roboto+Condensed);
+
+
+body {
+	font-size: 18px;
+	font-family: 'Open Sans', sans-serif;
+	margin: 20px;
+	padding: 40px;
+}
+hr {
+	width: 300px;
+}
+  
+
+h1 {
+	font-size: 2em;
+	text-transform: uppercase;
+	border-bottom: 4px solid black;
+	display: inline-block;
+	font-weight: 800;
+	font-size: 2em;
+}
+
+
+a:link {
+	text-decoration: none;
+	color: white;
+}
+a:hover {
+	color: hotpink;
+}
+
+header {
+	background-color: #FFED74;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+nav {
+	font-size: 1.8em;
+	float: right;
+}
+
+nav a {
+	text-decoration: none;
+	color: black;
+	margin: 1.8em;
+	display: inline-block;
+}
+
+#two_column {
+	background-color: #FFB7CF;
+	border: 1px black solid;
+	font-size: 1.2em;
+	width: 46%;
+	padding: 2%;
+	display: inline-block;
+}
+
+#left {
+	background-color: #E582A2;
+	float: left;
+	
+}
+
+#right {
+	background-color: #E55B88;
+	float: right;
+}
+
+footer {
+	background: #222;
+  	color: #fff;
+  	overflow: auto;
+	text-align: center;
+	padding: 1em 0;
+	clear: both;
+}
+
+.clearfix:after {
+	visibility: hidden;
+	display: block;
+	font-size: 0;
+	content: " ";
+	clear: both;
+	height: 0;
+}
