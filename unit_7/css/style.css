@@ -28,15 +28,12 @@ a:hover {
 }
 
 header {
-	padding: 20px;
 	background-color: orange;
 }
 
 nav {
 	font-size: 1em;
-	padding: 5px;
 	background-color: grey;
-	float: right;
 }
 
 nav a {
@@ -47,25 +44,23 @@ nav a {
 	display: inline-block;
 }
 
-section {
-	background: #FFB7CF;
-	overflow: auto;
-	font-size: 1.2em;
-	width: 46%;
-	padding: 2%;
-	display: inline-block;
-}
-
 
 div {
 	background-color: #E582A2;
 	float: left;
-	
+	width: 46%;
+	padding: 2%;
+	display: inline-block;
+	font-size: .8em;
 }
 
 aside {
 	background-color: #E55B88;
 	float: right;
+	width: 46%;
+	padding: 2%;
+	display: inline-block;
+	font-size: .8em;
 }
 
 footer {
@@ -73,6 +68,8 @@ footer {
 	text-align: center;
 	padding: 1em 0;
 	clear: both;
+	border-top: 4px dotted #bfbfbf;
+	border-bottom: 4px dotted #bfbfbf;
 }
 
 .clearfix:after {
