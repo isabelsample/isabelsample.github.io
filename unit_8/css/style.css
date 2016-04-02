@@ -119,17 +119,18 @@ footer {
 		padding: 0;
 	}
 	nav {
-		font-size: .7em;
+		font-size: .5em;
 		margin: 0;
 	}
 }
 
 @media only screen and (max-width: 400px) {
 	h1 {
-		font-size:.8em;
+		font-size:1em;
 	}
 	header {
 		margin: 0;
+		padding: 0;
 	}
 	nav {
 		float: none;
@@ -137,7 +138,7 @@ footer {
 	}
 
 	nav a {
-		padding: 0 2em 2em 1em;
+		padding: 0 4em 4em 1em;
 	}
 
 	img {
