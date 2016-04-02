@@ -40,6 +40,8 @@ header {
 	margin: 0 4em;
 	display: inline-block;
 	padding: 20px;
+	width: 100%;
+	height: auto;
 }
 
 nav {
