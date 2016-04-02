@@ -20,8 +20,8 @@ h1 {
 	font-family: 'Libre Baskerville', serif;
 	display: inline-block;
 	font-weight: 700;
-	padding: 4em;
-	margin-bottom: 2em;
+	padding: 2em;
+	margin-bottom: 1em;
 	color: #ffffff;
 	margin: 0 4em;
   
@@ -75,7 +75,7 @@ div {
 	padding: 2%;
 	display: inline-block;
 	font-size: .8em;
-	margin: 8em 2%;
+	margin: 40px 2%;
 }
 
 aside {
@@ -86,7 +86,7 @@ aside {
 	padding: 2%;
 	display: inline-block;
 	font-size: .8em;
-	margin: 8em 2%;
+	margin: 40px 2%;
 }
 
 
@@ -97,7 +97,7 @@ footer {
 	clear: both;
 	border-top: 2px dotted #808080;
 	border-bottom: 2px dotted #808080;
-	margin: 4em 0;
+	margin: 40px 0;
 }
 
 .clearfix:after {
