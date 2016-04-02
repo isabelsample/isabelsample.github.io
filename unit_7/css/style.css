@@ -7,12 +7,20 @@ body {
 	background-color: #4d4d4d
 }
 
-  
+hr {
+	display: block;
+	color: #ffffff;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: inset;
+    border-width: 10px;
+}  
 
 h1 {
 	font-size: 2em;
 	font-family: 'Libre Baskerville', serif;
-	border-bottom: 4px solid black;
 	display: inline-block;
 	font-weight: 700;
 	padding: 10px;
@@ -29,7 +37,7 @@ a:hover {
 }
 
 header {
-	background-color: orange;
+	
 }
 
 nav {
@@ -37,14 +45,13 @@ nav {
 	text-transform: uppercase;
 	font-family: 'Nunito', sans-serif;
 	font-size: .8em;
-	background-color: grey;
-	padding: 5px;
+	
 }
 
 nav a {
 	text-decoration: none;
 	color: black;
-	background-color: yellow;
+
 	margin: 1.8em;
 	display: inline-block;
 }
@@ -74,8 +81,6 @@ footer {
 	color: #222;
 	font-size: 1em;
 	text-align: center;
-	margin: 20px;
-	padding: 1em 0;
 	clear: both;
 	border-top: 4px dotted #bfbfbf;
 	border-bottom: 4px dotted #bfbfbf;
