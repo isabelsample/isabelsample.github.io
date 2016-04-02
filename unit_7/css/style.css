@@ -49,9 +49,8 @@ nav {
 	font-family: 'Nunito', sans-serif;
 	font-size: .6em;
 	padding-top: 0;
-	padding-bottom: 20px;
+	padding-bottom: 30px;
 	margin: 0 4em;
-	display: inline-block;
 }
 
 nav a {
@@ -60,8 +59,9 @@ nav a {
 	padding-right: 2em; 
 	padding-left: 2em;
 	padding-top: 0;
-	padding-bottom: 3em;
+	padding-bottom: 4em;
 	margin: 0 4em;
+	display: inline-block;
 }
 
 section {
