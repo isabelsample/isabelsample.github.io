@@ -56,10 +56,10 @@ nav {
 nav a {
 	text-decoration: none;
 	color: #999999;
-	padding-right: 2em; 
-	padding-left: 2em;
+	padding-right: 1em; 
+	padding-left: 1em;
 	padding-top: 0;
-	padding-bottom: 4em;
+	padding-bottom: 3em;
 	margin: 0 4em;
 	display: inline-block;
 }
