@@ -50,6 +50,7 @@ nav {
 	padding-top: 0;
 	padding-bottom: 20px;
 	margin: 0 4em;
+	display: block;
 }
 
 nav a {
@@ -59,7 +60,7 @@ nav a {
 	padding-left: 4em;
 	padding-top: 0;
 	padding-bottom: 3em;
-	display: inline-block;
+	display: block;
 	margin: 0 4em;
 }
 
