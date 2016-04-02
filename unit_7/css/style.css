@@ -32,17 +32,20 @@ a:hover {
 
 header {
 	padding: 20px;
+	background-color: orange;
 }
 
 nav {
 	font-size: 1.8em;
 	padding: 20px;
+	background-color: grey;
 	float: right;
 }
 
 nav a {
 	text-decoration: none;
 	color: black;
+	background-color: yellow;
 	margin: 1.8em;
 	display: inline-block;
 }
@@ -54,7 +57,6 @@ section {
 	width: 46%;
 	padding: 2%;
 	display: inline-block;
-}
 }
 
 
