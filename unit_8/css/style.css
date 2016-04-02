@@ -19,7 +19,8 @@ h1 {
 	font-family: 'Libre Baskerville', serif;
 	font-weight: 700;
 	color: #ffffff;
-  
+  	width: 100%;
+  	height: auto;
 }
 
 
@@ -87,8 +88,10 @@ aside {
 }
 */
 
-div {
+img {
 	margin: 2%;
+	width: 100%;
+	height: auto;
 }
 
 footer {
