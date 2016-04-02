@@ -4,7 +4,6 @@ body {
 	font-size: 18px;
 	font-family: 'Libre Baskerville', serif;
 	margin: 20px;
-	padding: 10px;
 	background-color: #4d4d4d
 }
 
@@ -16,6 +15,7 @@ h1 {
 	border-bottom: 4px solid black;
 	display: inline-block;
 	font-weight: 700;
+	padding: 10px;
   
 }
 
@@ -34,9 +34,11 @@ header {
 
 nav {
 	text-align: center;
+	text-transform: uppercase;
 	font-family: 'Nunito', sans-serif;
-	font-size: 1em;
+	font-size: .8em;
 	background-color: grey;
+	padding: 5px;
 }
 
 nav a {
@@ -67,6 +69,18 @@ aside {
 }
 
 
+footer {
+	background-color: red;
+	color: #222;
+	font-size: 1em;
+	text-align: center;
+	margin: 20px;
+	padding: 1em 0;
+	clear: both;
+	border-top: 4px dotted #bfbfbf;
+	border-bottom: 4px dotted #bfbfbf;
+}
+
 .clearfix:after {
 	visibility: hidden;
 	display: block;
@@ -75,14 +89,3 @@ aside {
 	clear: both;
 	height: 0;
 }
-
-footer {
-	color: #222;
-	font-size: .5em;
-	text-align: center;
-	padding: 1em 0;
-	clear: both;
-	border-top: 4px dotted #bfbfbf;
-	border-bottom: 4px dotted #bfbfbf;
-}
-
