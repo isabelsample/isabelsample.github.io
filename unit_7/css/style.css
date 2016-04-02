@@ -63,29 +63,29 @@ nav a {
 }
 
 section {
-	margin: 0 4em;
+	margin: 0 3em;
 }
 
 div {
 	background-color: #E582A2;
 	color: #404040;
 	float: left;
-	width: 30%;
-	padding: 1%;
+	width: 25.3%;
+	padding: 2%;
 	display: inline-block;
 	font-size: .8em;
-	margin: 40px 5px;
+	margin: 40px 2%;
 }
 
 aside {
 	background-color: #E55B88;
 	color: #404040;
 	float: left;
-	width: 30%;
-	padding: 1%;
+	width: 25.3%;
+	padding: 2%;
 	display: inline-block;
 	font-size: .8em;
-	margin: 40px 5px;
+	margin: 40px 2%;
 }
 
 
