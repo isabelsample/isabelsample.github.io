@@ -4,6 +4,7 @@ body {
 	font-size: 18px;
 	font-family: 'Libre Baskerville', serif;
 	margin: 5px;
+	padding: 5px;
 	background-color: #404040;
 }
 
@@ -19,8 +20,8 @@ h1 {
 	font-family: 'Libre Baskerville', serif;
 	display: inline-block;
 	font-weight: 700;
-	padding: 20px;
-	margin-bottom: 10px;
+	padding: 4em;
+	margin-bottom: 2em;
 	color: #ffffff;
 	margin: 0 4em;
   
@@ -47,7 +48,7 @@ nav {
 	text-align: center;
 	text-transform: uppercase;
 	font-family: 'Nunito', sans-serif;
-	font-size: .6em;
+	font-size: .7em;
 	padding-top: 0;
 	margin: 0 4em;
 }
@@ -74,7 +75,7 @@ div {
 	padding: 2%;
 	display: inline-block;
 	font-size: .8em;
-	margin: 40px 2%;
+	margin: 8em 2%;
 }
 
 aside {
@@ -85,7 +86,7 @@ aside {
 	padding: 2%;
 	display: inline-block;
 	font-size: .8em;
-	margin: 40px 2%;
+	margin: 8em 2%;
 }
 
 
@@ -96,7 +97,7 @@ footer {
 	clear: both;
 	border-top: 2px dotted #808080;
 	border-bottom: 2px dotted #808080;
-	margin: 20px 0;
+	margin: 4em 0;
 }
 
 .clearfix:after {
