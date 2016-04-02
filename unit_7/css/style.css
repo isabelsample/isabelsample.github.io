@@ -11,7 +11,7 @@ hr {
 	display: block;
 	color: #ffffff;
     border-style: solid;
-    border-width: 10px;
+    border-width: 8px;
 }  
 
 h1 {
@@ -41,7 +41,7 @@ nav {
 	text-align: center;
 	text-transform: uppercase;
 	font-family: 'Nunito', sans-serif;
-	font-size: .8em;
+	font-size: .6em;
 	padding-top: 0;
 	padding-bottom: 20px;
 	
@@ -50,8 +50,6 @@ nav {
 nav a {
 	text-decoration: none;
 	color: black;
-
-	margin: 1em;
 	display: inline-block;
 }
 
@@ -61,6 +59,7 @@ div {
 	float: left;
 	width: 29.3%;
 	padding: 2%;
+	margin-bottom: 20px;
 	display: inline-block;
 	font-size: .8em;
 }
@@ -70,6 +69,7 @@ aside {
 	float: left;
 	width: 29.3%;
 	padding: 2%;
+	margin-bottom: 20px;
 	display: inline-block;
 	font-size: .8em;
 }
