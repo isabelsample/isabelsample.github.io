@@ -5,7 +5,6 @@ body {
 	font-family: 'Libre Baskerville', serif;
 	margin: 5px;
 	background-color: #404040;
-	color:404040;
 }
 
 hr {
@@ -70,6 +69,7 @@ section {
 
 div {
 	background-color: #E582A2;
+	color: #404040;
 	float: left;
 	width: 29.3%;
 	padding: 2%;
@@ -80,6 +80,7 @@ div {
 
 aside {
 	background-color: #E55B88;
+	color: #404040;
 	float: left;
 	width: 29.3%;
 	padding: 2%;
@@ -90,8 +91,7 @@ aside {
 
 
 footer {
-	
-	color: #404040;
+	color: #808080;
 	font-size: .8em;
 	text-align: center;
 	clear: both;
