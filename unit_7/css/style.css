@@ -29,7 +29,7 @@ h1 {
 
 a:link {
 	text-decoration: none;
-	color: #999999;
+	color: #808080;
 }
 a:hover {
 	color: #ffffff;
@@ -55,9 +55,9 @@ nav {
 
 nav a {
 	text-decoration: none;
-	color: #999999;
-	padding-right: 1em; 
-	padding-left: 1em;
+	color: #808080;
+	padding-right: 2em; 
+	padding-left: 2em;
 	padding-top: 0;
 	padding-bottom: 3em;
 	display: inline-block;
@@ -94,8 +94,8 @@ footer {
 	font-size: .8em;
 	text-align: center;
 	clear: both;
-	border-top: 2px dotted #999999;
-	border-bottom: 2px dotted #999999;
+	border-top: 2px dotted #808080;
+	border-bottom: 2px dotted #808080;
 	margin: 20px 0;
 }
 
