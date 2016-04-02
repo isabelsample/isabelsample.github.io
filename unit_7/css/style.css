@@ -49,7 +49,6 @@ nav {
 	font-family: 'Nunito', sans-serif;
 	font-size: .6em;
 	padding-top: 0;
-	padding-bottom: 30px;
 	margin: 0 4em;
 }
 
@@ -75,7 +74,7 @@ div {
 	padding: 2%;
 	display: inline-block;
 	font-size: .8em;
-	margin-bottom: 40px;
+	margin-bottom: 40px 5px;
 }
 
 aside {
@@ -86,7 +85,7 @@ aside {
 	padding: 2%;
 	display: inline-block;
 	font-size: .8em;
-	margin-bottom: 40px;
+	margin-bottom: 40px 5px;
 }
 
 
