@@ -65,7 +65,7 @@ section {
 	margin: 0 3em;
 }
 
-div {
+/*div {
 	background-color: #E582A2;
 	color: #404040;
 	float: left;
@@ -86,7 +86,11 @@ aside {
 	font-size: .8em;
 	margin: 40px 2%;
 }
+*/
 
+div {
+	
+}
 
 footer {
 	color: #808080;
