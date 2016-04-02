@@ -124,11 +124,25 @@ footer {
 
 @media only screen and (max-width: 400px) {
 	header {
-		margin: 0 50%;
+		margin: 0 2% 0 0;
+		width: 100%;
+		text-align: center;
 	}
 	nav {
 		float: none;
 		display: block;
+	}
+
+	nav a {
+		padding: 0 4em 4em 2em;
+	}
+
+	img {
+		margin:0;
+	}
+
+	section {
+		margin:0 1em;
 	}
 
 }
