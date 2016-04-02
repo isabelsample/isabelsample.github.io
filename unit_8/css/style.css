@@ -4,7 +4,6 @@ body {
 	font-size: 18px;
 	font-family: 'Libre Baskerville', serif;
 	margin: 5px;
-	padding: 5px;
 	background-color: #404040;
 }
 
@@ -20,8 +19,8 @@ h1 {
 	font-family: 'Libre Baskerville', serif;
 	display: inline-block;
 	font-weight: 700;
-	padding: 2em;
-	margin-bottom: 1em;
+	padding: 20px;
+	margin-bottom: 10px;
 	color: #ffffff;
 	margin: 0 4em;
   
@@ -48,7 +47,7 @@ nav {
 	text-align: center;
 	text-transform: uppercase;
 	font-family: 'Nunito', sans-serif;
-	font-size: .7em;
+	font-size: .6em;
 	padding-top: 0;
 	margin: 0 4em;
 }
@@ -97,7 +96,7 @@ footer {
 	clear: both;
 	border-top: 2px dotted #808080;
 	border-bottom: 2px dotted #808080;
-	margin: 40px 0;
+	margin: 20px 0;
 }
 
 .clearfix:after {
