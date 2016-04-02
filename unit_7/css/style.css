@@ -10,10 +10,6 @@ body {
 hr {
 	display: block;
 	color: #ffffff;
-    margin-top: 0em;
-    margin-bottom: 0em;
-    margin-left: auto;
-    margin-right: auto;
     border-style: solid;
     border-width: 10px;
 }  
@@ -24,6 +20,7 @@ h1 {
 	display: inline-block;
 	font-weight: 700;
 	padding: 10px;
+	color: #ffffff;
   
 }
 
@@ -62,7 +59,7 @@ nav a {
 div {
 	background-color: #E582A2;
 	float: left;
-	width: 46%;
+	width: 29.3%;
 	padding: 2%;
 	display: inline-block;
 	font-size: .8em;
@@ -71,7 +68,7 @@ div {
 aside {
 	background-color: #E55B88;
 	float: left;
-	width: 46%;
+	width: 29.3%;
 	padding: 2%;
 	display: inline-block;
 	font-size: .8em;
@@ -81,11 +78,11 @@ aside {
 footer {
 	
 	color: #222;
-	font-size: 1em;
+	font-size: .8em;
 	text-align: center;
 	clear: both;
-	border-top: 1px dotted #bfbfbf;
-	border-bottom: 4px dotted #bfbfbf;
+	border-top: 3px dotted #bfbfbf;
+	border-bottom: 3px dotted #bfbfbf;
 }
 
 .clearfix:after {
