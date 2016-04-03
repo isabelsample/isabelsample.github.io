@@ -82,7 +82,7 @@ aside {
 	width: 31%;
 	padding: 2%;
 	display: inline-block;
-	margin: 10%;
+	margin: 0 10% 0 10%;
 	font-size: .8em;
 	background-color: pink;
 	border-radius: 25px;
