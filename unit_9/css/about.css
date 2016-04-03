@@ -1,6 +1,6 @@
 body {
 	font-size: 18px;
-	color: #808080;
+	color: #404040;
 	font-family: 'Libre Baskerville', serif;
 	margin: 5px;
 	background-color: #404040;
@@ -86,33 +86,12 @@ aside {
 	font-size: .8em;
 	margin: 40px 2%;
 	background-color: pink;
+	border-radius: auto;
+	background: #808080;
 }
-
-/*div {
-	background-color: #E582A2;
-	color: #404040;
-	float: left;
-	width: 25.3%;
-	padding: 2%;
-	display: inline-block;
-	font-size: .8em;
-	margin: 40px 2%;
-}
-
-aside {
-	background-color: #E55B88;
-	color: #404040;
-	float: left;
-	width: 25.3%;
-	padding: 2%;
-	display: inline-block;
-	font-size: .8em;
-	margin: 40px 2%;
-}
-*/
 
 img {
-	margin: 3% 5% 5% 5%;
+	margin: 0 0 0 3em;
 	width: 90%;
 	height: auto;
 }
