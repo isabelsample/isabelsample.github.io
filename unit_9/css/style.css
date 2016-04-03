@@ -1,0 +1,178 @@
+
+
+body {
+	font-size: 18px;
+	font-family: 'Libre Baskerville', serif;
+	margin: 5px;
+	background-color: #404040;
+}
+
+hr {
+	display: block;
+	color: #ffffff;
+    border-style: solid;
+    border-width: 8px;
+}  
+
+h1 {
+	font-size: 2em;
+	font-family: 'Libre Baskerville', serif;
+	font-weight: 700;
+	color: #ffffff;
+}
+
+
+a:link {
+	text-decoration: none;
+	color: #808080;
+}
+a:hover {
+	color: #ffffff;
+}
+
+a:active {
+	color: #ffff4d;
+}
+
+header {
+	margin: 0 4em;
+	display: inline-block;
+	padding: 20px;
+	width: 100%;
+	height: auto;
+}
+
+nav {
+	text-align: center;
+	text-transform: uppercase;
+	font-family: 'Nunito', sans-serif;
+	font-size: .8em;
+	padding-top: 0;
+	margin: 0 3em;
+}
+
+nav a {
+	text-decoration: none;
+	color: #808080;
+	padding-right: 2em; 
+	padding-left: 2em;
+	padding-top: 0;
+	padding-bottom: 2em;
+	display: inline-block;
+}
+
+section {
+	margin: 0 3em;
+}
+
+/*div {
+	background-color: #E582A2;
+	color: #404040;
+	float: left;
+	width: 25.3%;
+	padding: 2%;
+	display: inline-block;
+	font-size: .8em;
+	margin: 40px 2%;
+}
+
+aside {
+	background-color: #E55B88;
+	color: #404040;
+	float: left;
+	width: 25.3%;
+	padding: 2%;
+	display: inline-block;
+	font-size: .8em;
+	margin: 40px 2%;
+}
+*/
+
+img {
+	margin: 2%;
+	width: 100%;
+	height: auto;
+}
+
+footer {
+	color: #808080;
+	font-size: .8em;
+	text-align: center;
+	clear: both;
+	border-top: 2px dotted #808080;
+	border-bottom: 2px dotted #808080;
+	margin: 20px 0;
+}
+
+.clearfix:after {
+	visibility: hidden;
+	display: block;
+	font-size: 0;
+	content: " ";
+	clear: both;
+	height: 20px;
+}
+
+@media only screen and (max-width: 800px) {
+	h1 {
+		float: none;
+		display: block;
+		margin-left: 10%;
+	}
+
+	header {
+		margin: 0;
+		padding: 0;
+	}
+	nav {
+		font-size: .8em;
+		margin: 0;
+	}
+
+	footer {
+		font-size: .6em;
+	}
+
+	img {
+		margin: 0;
+	}
+
+	section {
+	
+	}
+}
+
+@media only screen and (max-width: 400px) {
+	h1 {
+		font-size:2em;
+		float: none;
+		display: block;
+		margin-left: 0;
+		text-align: center;
+	}
+	header {
+		margin: 0;
+		padding: 0;
+	}
+	nav {
+		float: none;
+		display: inline-block;
+		font-size: .8em;
+	}
+
+	nav a {
+		padding-top: 0;
+		padding-bottom: 1em;
+		padding-right: 8em;
+		padding-left: 8em;
+	}
+
+	img {
+		margin:0;
+	}
+
+	section {
+		margin:0;
+	}
+
+}
