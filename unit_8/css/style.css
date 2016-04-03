@@ -136,6 +136,10 @@ footer {
 	img {
 		margin: 0;
 	}
+
+	section {
+		margin: 0 1em;
+	}
 }
 
 @media only screen and (max-width: 400px) {
