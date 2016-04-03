@@ -84,7 +84,7 @@ aside {
 	display: inline-block;
 	font-size: .8em;
 	background-color: pink;
-	border-radius: 50%;
+	border-radius: 25px;
 	background: #808080;
 }
 
