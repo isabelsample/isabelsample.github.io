@@ -63,7 +63,17 @@ nav a {
 }
 
 section {
-	margin: 0 3em;
+	margin: 2em;
+}
+
+div {
+	float: left;
+	display: inline-block;
+}
+
+aside {
+	float: right;
+	display: inline-block;
 }
 
 /*div {
