@@ -63,14 +63,15 @@ nav a {
 }
 
 section {
-	margin: 2%;
+	margin: 2%; 
+	/**
 	width: 100$
 	height: auto;
 	display: inline-block;
-	background-color: red;
+	background-color: red; **/
 }
 
-div {
+/**div {
 	float: left;
 	width: 25.3%;
 	padding: 2%;
@@ -88,7 +89,7 @@ aside {
 	font-size: .8em;
 	margin: 40px 2%;
 	background-color: pink;
-}
+}**/
 
 /*div {
 	background-color: #E582A2;
