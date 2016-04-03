@@ -69,11 +69,13 @@ section {
 div {
 	float: left;
 	display: inline-block;
+	margin: 0 1em 3em 2em;
 }
 
 aside {
 	float: right;
 	display: inline-block;
+	margin: 0 3em 1em 2em;
 }
 
 /*div {
