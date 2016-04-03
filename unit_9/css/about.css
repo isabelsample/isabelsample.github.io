@@ -61,11 +61,11 @@ nav a {
 }
 
 section {
-	/**
 	width: 100$
 	height: auto;
 	display: inline-block;
-	background-color: red; **/
+	background-color: red;
+	margin: 5%; 
 }
 
 div {
@@ -88,11 +88,11 @@ aside {
 	background: #808080;
 }
 
-img {
+/**img {
 	margin: 0 0 0 3em;
 	width: 90%;
 	height: auto;
-}
+}**/
 
 footer {
 	color: #808080;
