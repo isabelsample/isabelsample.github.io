@@ -114,11 +114,14 @@ footer {
 }
 
 @media only screen and (max-width: 800px) {
+	h1 {
+		float: none;
+		display: block;
+		margin-left: 15%;
+	}
+
 	header {
-		margin-top: 0;
-		margin-bottom: 0;
-		margin-left: 0;
-		margin-right: 2em;
+		margin: 0;
 		padding: 0;
 	}
 	nav {
