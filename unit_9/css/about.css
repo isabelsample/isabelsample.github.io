@@ -86,11 +86,10 @@ aside {
 	background: #808080;
 }
 
-/**img {
-	margin: 0 0 0 3em;
-	width: 90%;
+img {
+	width: 26%;
 	height: auto;
-}**/
+}
 
 footer {
 	color: #808080;
