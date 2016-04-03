@@ -64,18 +64,21 @@ nav a {
 
 section {
 	margin: 2em;
+	background-color: red;
 }
 
 div {
 	float: left;
 	display: inline-block;
 	margin: 0 1em 3em 2em;
+	background-color: green;
 }
 
 aside {
 	float: right;
 	display: inline-block;
 	margin: 0 3em 1em 2em;
+	background-color: pink;
 }
 
 /*div {
