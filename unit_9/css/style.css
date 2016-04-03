@@ -63,21 +63,23 @@ nav a {
 }
 
 section {
-	margin: 2em;
+	margin: 2%;
+	display: inline-block;
 	background-color: red;
 }
 
 div {
 	float: left;
 	display: inline-block;
-	margin: 0 1em 3em 2em;
+	margin: 0 5% 5% 2%;
 	background-color: green;
 }
 
 aside {
 	float: right;
 	display: inline-block;
-	margin: 0 3em 1em 2em;
+	margin: 0 2% 5% 2%;
+	padding: 1em 2em 3em 1em;
 	background-color: pink;
 }
 
