@@ -65,12 +65,12 @@ section {
 	height: auto;
 	display: inline-block;
 	background-color: red;
-	margin: 10%; 
+	margin: 15%; 
 }
 
 div {
 	float: left;
-	width: 36%;
+	width: 31%;
 	padding: 2%;
 	display: inline-block;
 	font-size: .8em;
@@ -79,7 +79,7 @@ div {
 
 aside {
 	float: right;
-	width: 36%;
+	width: 31%;
 	padding: 2%;
 	display: inline-block;
 	font-size: .8em;
