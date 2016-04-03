@@ -70,7 +70,7 @@ section {
 
 div {
 	float: left;
-	width: 25.3%;
+	width: 46%;
 	padding: 2%;
 	display: inline-block;
 	font-size: .8em;
@@ -79,7 +79,7 @@ div {
 
 aside {
 	float: right;
-	width: 25.3%;
+	width: 46%;
 	padding: 2%;
 	display: inline-block;
 	font-size: .8em;
