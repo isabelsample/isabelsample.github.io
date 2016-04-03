@@ -115,18 +115,22 @@ footer {
 
 @media only screen and (max-width: 800px) {
 	header {
-		margin: 0 16.67% 40% 0;
+		margin: 0;
 		padding: 0;
 	}
 	nav {
-		font-size: .7em;
+		font-size: 1em;
 		margin: 0;
+	}
+
+	footer {
+		font-size: .5em;
 	}
 }
 
 @media only screen and (max-width: 400px) {
 	h1 {
-		font-size:1.5em;
+		font-size:2em;
 	}
 	header {
 		margin: 0;
@@ -135,6 +139,7 @@ footer {
 	nav {
 		float: none;
 		display: inline-block;
+		font-size: 1em;
 	}
 
 	nav a {
