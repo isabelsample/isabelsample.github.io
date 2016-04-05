@@ -61,7 +61,7 @@ nav a {
 }
 
 #sec1 {
-	width: 100%;
+	width: 80%;
 	height: auto;
 	display: inline-block;
 	margin: 4% 10% 2% 10%;
@@ -136,7 +136,7 @@ nav a {
 }
 
 img {
-	width: 22.8%;
+	width: 80%;
 	height: auto;
 	float: left;
 	background-color: purple;
