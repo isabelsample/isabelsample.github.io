@@ -98,13 +98,15 @@ nav a {
 
 #pic3 {
 	float: left;
-	width: 15%;
+	width: 22.8%;
 	display: inline-block;
 }
 
 #about1 {
 	float: right;
 	width: 53.2%;
+	margin-top: 33%;
+	margin-bottom: 33%;
 	padding: 2%;
 	display: inline-block;
 	font-size: .8em;
@@ -125,7 +127,7 @@ nav a {
 
 #about3  {
 	float: right;
-	width: 31%;
+	width: 53.2%;
 	padding: 2%;
 	display: inline-block;
 	font-size: .8em;
@@ -133,11 +135,12 @@ nav a {
 	background: #808080;
 }
 
-/**img {
-	width: 100%;
+img {
+	width: 22.8%;
 	height: auto;
+	float: left;
 	background-color: purple;
-}**/
+}
 
 footer {
 	color: #808080;
