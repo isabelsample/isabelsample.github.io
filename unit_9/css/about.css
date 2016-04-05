@@ -60,8 +60,8 @@ nav a {
 	display: inline-block;
 }
 
-section {
-	width: 100$
+#sec {
+	width: 100%;
 	height: auto;
 	display: inline-block;
 }
