@@ -85,7 +85,9 @@ nav a {
 #pic1 {
 	float: left;
 	width: 22.8%;
-	margin-left: 12%;
+	margin-top: 2%;
+	margin-bottom: 2%;
+	margin-left: 15%;
 	height: auto;
 	display: inline-block;
 	background-color: orange;
@@ -108,7 +110,7 @@ nav a {
 	width: 30%;
 	margin-top: 4%;
 	margin-bottom: 4%;
-	margin-right: 12%;
+	margin-right: 15%;
 	padding: 2%;
 	display: inline-block;
 	font-size: .8em;
