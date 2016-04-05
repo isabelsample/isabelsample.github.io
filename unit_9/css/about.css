@@ -64,20 +64,21 @@ nav a {
 	width: 100%;
 	height: auto;
 	display: inline-block;
+	margin: 4% 25% 4% 25%;
 }
 
-.pic {
+div {
 	float: left;
-	width: 26%;
+	width: 21%;
 	padding: 2%;
 	margin-left: 3em;
 	display: inline-block;
 	font-size: .8em;
 }
 
-.about {
+aside {
 	float: right;
-	width: 26%;
+	width: 21%;
 	padding: 2%;
 	display: inline-block;
 	margin: 10% 15% 15% 15%;
@@ -87,7 +88,7 @@ nav a {
 }
 
 img {
-	width: 26%;
+	width: 21%;
 	height: auto;
 }
 
