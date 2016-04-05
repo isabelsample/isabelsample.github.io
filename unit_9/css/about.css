@@ -60,20 +60,46 @@ nav a {
 	display: inline-block;
 }
 
-section {
+#sec1 {
 	width: 100%;
 	height: auto;
 	display: inline-block;
 	margin: 4% 25% 4% 25%;
 }
 
-div {
+#sec2 {
+	width: 100%;
+	height: auto;
+	display: inline-block;
+	margin: 4% 25% 4% 25%;
+}
+
+#sec3 {
+	width: 100%;
+	height: auto;
+	display: inline-block;
+	margin: 4% 25% 4% 25%;
+}
+
+#pic1 {
 	float: left;
 	margin-left: 3em;
 	display: inline-block;
 }
 
-aside {
+#pic2 {
+	float: left;
+	margin-left: 3em;
+	display: inline-block;
+}
+
+#pic3 {
+	float: left;
+	margin-left: 3em;
+	display: inline-block;
+}
+
+#about1 {
 	float: right;
 	width: 21%;
 	padding: 2%;
@@ -83,10 +109,30 @@ aside {
 	background: #808080;
 }
 
-img {
+#about2  {
+	float: right;
+	width: 21%;
+	padding: 2%;
+	display: inline-block;
+	font-size: .8em;
+	border-radius: 25px;
+	background: #808080;
+}
+
+#about3  {
+	float: right;
+	width: 21%;
+	padding: 2%;
+	display: inline-block;
+	font-size: .8em;
+	border-radius: 25px;
+	background: #808080;
+}
+
+/**img {
 	width: 21%;
 	height: auto;
-}
+}**/
 
 footer {
 	color: #808080;
