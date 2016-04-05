@@ -83,25 +83,25 @@ nav a {
 
 #pic1 {
 	float: left;
-	margin-left: 3em;
+	width: 15%;
 	display: inline-block;
 }
 
 #pic2 {
 	float: left;
-	margin-left: 3em;
+	width: 15%;
 	display: inline-block;
 }
 
 #pic3 {
 	float: left;
-	margin-left: 3em;
+	width: 15%;
 	display: inline-block;
 }
 
 #about1 {
 	float: right;
-	width: 21%;
+	width: 31%;
 	padding: 2%;
 	display: inline-block;
 	font-size: .8em;
@@ -111,7 +111,7 @@ nav a {
 
 #about2  {
 	float: right;
-	width: 21%;
+	width: 31%;
 	padding: 2%;
 	display: inline-block;
 	font-size: .8em;
@@ -121,7 +121,7 @@ nav a {
 
 #about3  {
 	float: right;
-	width: 21%;
+	width: 31%;
 	padding: 2%;
 	display: inline-block;
 	font-size: .8em;
@@ -129,10 +129,10 @@ nav a {
 	background: #808080;
 }
 
-/**img {
-	width: 21%;
+img {
+	width: 15%;
 	height: auto;
-}**/
+}
 
 footer {
 	color: #808080;
