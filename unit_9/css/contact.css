@@ -61,9 +61,13 @@ nav a {
 }
 
 footer {
-	background-color: #cccccc;
-	text-align: right;
-	padding: 20px;
+	color: #808080;
+	font-size: .8em;
+	text-align: center;
+	clear: both;
+	border-top: 2px dotted #808080;
+	border-bottom: 2px dotted #808080;
+	margin: 20px 0;
 }
 
 
