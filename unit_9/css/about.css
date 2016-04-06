@@ -230,11 +230,13 @@ footer {
 	}
 
 	img {
-		display: none;
+		display: block;
+		float: none;
 	}
 
 	#sec1, #sec2, #sec3 {
-		display: none;
+		float: none;
+		display: block;
 		margin: 0;
 		width: 100%;
 		height: auto;
