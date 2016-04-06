@@ -65,18 +65,17 @@ nav a {
 	height: auto;
 	display: inline-block;
 	margin: 2% 10% 2% 10%;
-	background-color: yellow;
 }
 
 #sec2 {
-	width: 100%;
+	width: 80%;
 	height: auto;
 	display: inline-block;
 	margin: 1% 10% 1% 10%;
 }
 
 #sec3 {
-	width: 100%;
+	width: 80%;
 	height: auto;
 	display: inline-block;
 	margin: 1% 10% 2% 10%;
@@ -90,38 +89,47 @@ nav a {
 	margin-left: 15%;
 	height: auto;
 	display: inline-block;
-	background-color: orange;
 }
 
 #pic2 {
 	float: left;
-	width: 22.8%;
+	width: 30%;
+	margin-top: 4%;
+	margin-bottom: 4%;
+	margin-left: 15%;
+	height: auto;
 	display: inline-block;
 }
 
 #pic3 {
 	float: left;
-	width: 22.8%;
+	width: 30%;
+	margin-top: 4%;
+	margin-bottom: 4%;
+	margin-left: 15%;
+	height: auto;
 	display: inline-block;
 }
 
 #about1 {
 	float: right;
 	width: 30%;
-	margin-top: 10%;
-	margin-bottom: 10%;
+	margin-top: 11%;
+	margin-bottom: 11%;
 	margin-right: 15%;
 	padding: 2%;
 	display: inline-block;
 	font-size: .8em;
 	border-radius: 25px;
 	background: #808080;
-	background-color: green;
 }
 
 #about2  {
 	float: right;
-	width: 53.2%;
+	width: 30%;
+	margin-top: 11%;
+	margin-bottom: 11%;
+	margin-right: 15%;
 	padding: 2%;
 	display: inline-block;
 	font-size: .8em;
@@ -131,7 +139,10 @@ nav a {
 
 #about3  {
 	float: right;
-	width: 53.2%;
+	width: 30%;
+	margin-top: 11%;
+	margin-bottom: 11%;
+	margin-right: 15%;
 	padding: 2%;
 	display: inline-block;
 	font-size: .8em;
