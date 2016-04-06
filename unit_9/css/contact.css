@@ -71,13 +71,14 @@ section {
 
 div {
 	display: inline-block;
-	font-size: 3em;
+	font-size: 1em;
 	font-family: 'Nunito', sans-serif;
 	text-transform: uppercase;
 	color: #ffff4d;
 }
 
 aside {
+	margin-top: 2%;
 	font-size: 2em;
 	font-family: 'Libre Baskerville', serif;
 	text-align: center;
