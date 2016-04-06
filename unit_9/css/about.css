@@ -64,7 +64,7 @@ nav a {
 	width: 80%;
 	height: auto;
 	display: inline-block;
-	margin: 2% 10% 0 10%;
+	margin: 2% 10% 2% 10%;
 }
 
 #sec2 {
@@ -84,18 +84,18 @@ nav a {
 #pic1 {
 	float: left;
 	width: 30%;
-	margin-top: 2%;
-	margin-bottom: 2%;
+	margin-top: 4%;
+	margin-bottom: 4%;
 	margin-left: 15%;
 	height: auto;
 	display: inline-block;
 }
 
 #pic2 {
-	float: left;
+	float: right;
 	width: 30%;
-	margin-top: 2%;
-	margin-bottom: 2%;
+	margin-top: 4%;
+	margin-bottom: 4%;
 	margin-left: 15%;
 	height: auto;
 	display: inline-block;
@@ -104,8 +104,8 @@ nav a {
 #pic3 {
 	float: left;
 	width: 30%;
-	margin-top: 2%;
-	margin-bottom: 2%;
+	margin-top: 4%;
+	margin-bottom: 4%;
 	margin-left: 15%;
 	height: auto;
 	display: inline-block;
@@ -125,7 +125,7 @@ nav a {
 }
 
 #about2  {
-	float: right;
+	float: left;
 	width: 30%;
 	margin-top: 11%;
 	margin-bottom: 11%;
