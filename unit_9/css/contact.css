@@ -70,16 +70,17 @@ section {
 
 div {
 	display: inline-block;
-	font-size: .8em;
+	font-size: 5em;
 	font-family: 'Nunito', sans-serif;
 	text-transform: uppercase;
-	color: #808080;
+	color: #ffff4d;
 }
 
-p {
-	font-size: .8em;
+aside {
+	font-size: 2em;
+	font-family: 'Libre Baskerville', serif;
 	text-align: center;
-	color: #ffff4d;
+	color: #808080;
 }
 
 
