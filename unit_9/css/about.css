@@ -72,6 +72,7 @@ nav a {
 	height: auto;
 	display: inline-block;
 	margin: 0 10% 0 10%;
+	background-color: yellow;
 }
 
 #sec3 {
@@ -99,6 +100,7 @@ nav a {
 	margin-right: 15%;
 	height: auto;
 	display: inline-block;
+	background-color: red;
 }
 
 #pic3 {
@@ -135,6 +137,7 @@ nav a {
 	font-size: .8em;
 	border-radius: 25px;
 	background: #808080;
+	background-color: green;
 }
 
 #about3  {
