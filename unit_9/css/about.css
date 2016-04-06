@@ -64,7 +64,7 @@ nav a {
 	width: 80%;
 	height: auto;
 	display: inline-block;
-	margin: 4% 10% 2% 10%;
+	margin: 2% 10% 2% 10%;
 	background-color: yellow;
 }
 
@@ -72,14 +72,14 @@ nav a {
 	width: 100%;
 	height: auto;
 	display: inline-block;
-	margin: 2% 10% 2% 10%;
+	margin: 1% 10% 1% 10%;
 }
 
 #sec3 {
 	width: 100%;
 	height: auto;
 	display: inline-block;
-	margin: 2% 10% 4% 10%;
+	margin: 1% 10% 2% 10%;
 }
 
 #pic1 {
@@ -108,8 +108,8 @@ nav a {
 #about1 {
 	float: right;
 	width: 30%;
-	margin-top: 4%;
-	margin-bottom: 4%;
+	margin-top: 10%;
+	margin-bottom: 10%;
 	margin-right: 15%;
 	padding: 2%;
 	display: inline-block;
