@@ -88,6 +88,15 @@ aside {
 	display: inline-block;
 }
 
+#social {
+	display: inline-block;
+	margin: 8% 25% 4% 25%;
+}
+
+img {
+	width: 10%;
+	height: auto;
+}
 
 footer {
 	color: #808080;
