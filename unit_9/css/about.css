@@ -234,7 +234,7 @@ footer {
 	}
 
 	#sec1, #sec2, #sec3 {
-		display: block;
+		display: none;
 		margin: 0;
 		width: 100%;
 		height: auto;
