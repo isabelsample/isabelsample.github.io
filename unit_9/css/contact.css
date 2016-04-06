@@ -62,14 +62,24 @@ nav a {
 
 section {
 	margin: 4% auto;
+	margin-left: 30%;
+	margin-right: 30%; 
+	padding: 2%;
+	text-align: center;
+}
+
+div {
+	display: inline-block;
+	font-size: .8em;
+	font-family: 'Nunito', sans-serif;
+	text-transform: uppercase;
+	color: #808080;
 }
 
 p {
-	padding: 2%;
-	display: inline-block;
 	font-size: .8em;
-	border-radius: 25px;
-	background: #808080;
+	text-align: center;
+	color: #ffff4d;
 }
 
 
