@@ -64,7 +64,8 @@ nav a {
 	width: 80%;
 	height: auto;
 	display: inline-block;
-	margin: 2% 10% 2% 10%;
+	margin: 2% 10% 0 10%;
+	background-color: green;
 }
 
 #sec2 {
@@ -100,7 +101,6 @@ nav a {
 	margin-right: 15%;
 	height: auto;
 	display: inline-block;
-	background-color: red;
 }
 
 #pic3 {
@@ -137,7 +137,6 @@ nav a {
 	font-size: .8em;
 	border-radius: 25px;
 	background: #808080;
-	background-color: green;
 }
 
 #about3  {
