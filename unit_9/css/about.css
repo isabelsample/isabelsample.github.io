@@ -64,21 +64,21 @@ nav a {
 	width: 80%;
 	height: auto;
 	display: inline-block;
-	margin: 2% 10% 2% 10%;
+	margin: 2% 10% 0 10%;
 }
 
 #sec2 {
 	width: 80%;
 	height: auto;
 	display: inline-block;
-	margin: 1% 10% 1% 10%;
+	margin: 0 10% 0 10%;
 }
 
 #sec3 {
 	width: 80%;
 	height: auto;
 	display: inline-block;
-	margin: 1% 10% 2% 10%;
+	margin: 0 10% 2% 10%;
 }
 
 #pic1 {
