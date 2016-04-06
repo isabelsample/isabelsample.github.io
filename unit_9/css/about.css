@@ -96,7 +96,7 @@ nav a {
 	width: 30%;
 	margin-top: 4%;
 	margin-bottom: 4%;
-	margin-left: 15%;
+	margin-right: 15%;
 	height: auto;
 	display: inline-block;
 }
@@ -129,7 +129,7 @@ nav a {
 	width: 30%;
 	margin-top: 11%;
 	margin-bottom: 11%;
-	margin-right: 15%;
+	margin-left: 15%;
 	padding: 2%;
 	display: inline-block;
 	font-size: .8em;
