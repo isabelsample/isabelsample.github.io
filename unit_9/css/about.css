@@ -154,7 +154,6 @@ img {
 	width: 100%;
 	height: auto;
 	float: left;
-	background-color: purple;
 }
 
 footer {
@@ -231,7 +230,7 @@ footer {
 	}
 
 	img {
-		margin:0;
+		
 	}
 
 	#sec1, #sec2, #sec3 {
@@ -239,6 +238,7 @@ footer {
 		margin: 0;
 		width: 100%;
 		height: auto;
+		clear: both;
 	}
 
 	#about1, #about2, #about3 {
