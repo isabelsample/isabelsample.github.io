@@ -1,0 +1,99 @@
+body {
+	font-family: Helvetica;
+	margin: 0;
+	color: #333;
+}
+
+
+ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	background-color: #333;
+	font-family: Arial;
+	font-size: 18px;
+	text-transform: uppercase;
+	position: fixed;
+	top: 0;
+	width: 100%;
+	height: 80px;
+}
+
+li {
+	float: left;
+}
+
+li a {
+	display: block;
+	color: white;
+	text-align: center;
+	padding: 30px 16px;
+	text-decoration: none;
+}
+
+li a:hover {
+	background-color: #111;
+	height: 80px;
+}
+
+.active {
+	background-color: #4CAF50;
+	height: 80px;
+}
+
+.blue {
+	height: 615px;
+	width: 40%;
+	float: left;
+	margin-top: 80px;
+	padding-top: 35px;
+	background-color: black;
+}
+
+.links {
+	height: 390px;
+	width: 48%;
+	float: right;
+	margin-top: 80px;
+	padding: 130px 6%;
+	background-color: #111;
+}
+
+.player {
+	padding: 85px 1.25% 50px 10%;
+	width: 25%;
+	height: 365px;
+	float: left;
+	background-color: #e6e6e6;
+}
+
+.about {
+	padding: 55px 1.25%;
+	width: 25%;
+	height: 390px;
+	display: inline-block;
+	background-color: #e6e6e6;
+}
+
+.contact {
+	padding: 50px 10% 50px 1.25%;
+	width: 25%;
+	height: 400px;
+	float: right;
+	background-color: #e6e6e6;
+}
+
+.albums {
+	height: 300px;
+	background-color: black;
+	padding: 100px 0;
+}
+
+footer {
+	height: 30px;
+	padding: 15px 0;
+	background-color: #111;
+	color: white;
+	font-size: 11px;
+}
