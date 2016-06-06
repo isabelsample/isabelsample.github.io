@@ -2,6 +2,7 @@ body {
 	font-family: Helvetica;
 	margin: 0;
 	color: #333;
+	background-color: #111;
 }
 
 
@@ -42,55 +43,43 @@ li a:hover {
 	height: 80px;
 }
 
-.blue {
-	height: 615px;
-	width: 40%;
-	float: left;
-	margin-top: 80px;
-	padding-top: 35px;
-	background-color: black;
+.all {
+	height: auto;
+	width: 650px;
+	background-color: #e6e6e6;
+	margin: 90px 30%;
 }
 
-.links {
-	height: 390px;
-	width: 48%;
-	float: right;
-	margin-top: 80px;
-	padding: 130px 6%;
+.title {
+	height: 60px;
+	padding: 20px 30px;
 	background-color: #111;
+	color: #e6e6e6;
 }
 
-.player {
-	padding: 60px 1.25% 50px 10%;
-	width: 25%;
-	height: 465px;
+#date {
+	height: 100px;
+	width: 70px;
 	float: left;
 	background-color: #e6e6e6;
+	padding-left: 30px;
+	border-bottom: solid;
+	border-width: 2px;
 }
 
-.about {
-	padding: 65px 1.25%;
-	width: 25%;
-	height: 445px;
-	display: inline-block;
+#schedule {
+	height: 100px;
+	width: 550px;
 	background-color: #e6e6e6;
-	line-height: 1.5;
-}
-
-.contact {
-	padding: 65px 10% 50px 1.25%;
-	width: 25%;
-	height: 460px;
 	float: right;
-	background-color: #e6e6e6;
 	line-height: 1.5;
+	border-bottom: solid;
+	border-width: 2px;
 }
 
-.albums {
-	height: 300px;
-	background-color: black;
-	padding: 100px 0;
-}
+
+
+
 
 footer {
 	height: 50px;
@@ -98,5 +87,6 @@ footer {
 	background-color: #111;
 	color: white;
 	font-size: 11px;
+	clear: both;
 	line-height: 2;
 }
