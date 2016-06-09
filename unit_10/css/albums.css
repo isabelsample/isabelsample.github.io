@@ -1,7 +1,7 @@
 body {
 	font-family: Helvetica;
 	margin: 0;
-	color: #333;
+	color: #111;
 	background-color: #111;
 }
 
@@ -44,39 +44,39 @@ li a:hover {
 }
 
 .all {
-	height: auto;
-	width: 650px;
+	height: 1499px;
+	width: 700px;
 	background-color: #e6e6e6;
-	margin: 90px 30%;
+	margin: 60px 30%;
+	
 }
 
 .title {
-	height: 60px;
-	padding: 20px 30px;
 	background-color: #111;
 	color: #e6e6e6;
+	padding: 50px 0 1px 30px;
 }
 
-#date {
-	height: 100px;
-	width: 70px;
+#cover {
 	float: left;
-	background-color: #e6e6e6;
-	padding-left: 30px;
+	width: 360px;
+	height: 280px;
+	padding: 20px 20px 40px 20px;
 	border-bottom: solid;
 	border-width: 2px;
 }
 
-#schedule {
-	height: 100px;
-	width: 550px;
-	background-color: #e6e6e6;
+#tracks {
 	float: right;
+	width: 260px;
+	height: 280px;
+	padding: 50px 20px 10px 20px;
 	line-height: 1.5;
+	font-size: 13px;
 	border-bottom: solid;
 	border-width: 2px;
+	color: #333;
 }
-
 
 
 

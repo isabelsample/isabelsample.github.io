@@ -8,7 +8,7 @@ body {
 ul {
 	list-style-type: none;
 	margin: 0;
-	padding: 0;
+	padding: 0 30%;
 	overflow: hidden;
 	background-color: #333;
 	font-family: Arial;
@@ -52,12 +52,20 @@ li a:hover {
 }
 
 .links {
-	height: 390px;
-	width: 48%;
+	width: 60%;
 	float: right;
 	margin-top: 80px;
-	padding: 130px 6%;
 	background-color: #111;
+}
+
+.linkstop {
+	height: 195px;
+	padding: 130px 6% 0 10%;
+}
+
+.linksbot {
+	height: 195px;
+	padding: 0 0 130px 10%;
 }
 
 .player {
@@ -100,3 +108,4 @@ footer {
 	font-size: 11px;
 	line-height: 2;
 }
+
