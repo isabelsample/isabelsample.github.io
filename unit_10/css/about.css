@@ -1,7 +1,7 @@
 body {
 	font-family: Helvetica;
 	margin: 0;
-	color: #111;
+	color: #333;
 	background-color: #111;
 }
 
@@ -41,4 +41,41 @@ li a:hover {
 .active {
 	background-color: #4CAF50;
 	height: 80px;
+}
+
+.all {
+	margin: 60px 20%;
+	background-color: #e6e6e6;
+	height: 730px;
+	width: 900px;
+}
+
+.title {
+	background-color: #111;
+	color: #80bfff;
+	padding: 50px 0 1px 180px;
+}
+
+#pic {
+	float: left;
+	width: 360px;
+	height: 399px;
+	padding: 100px 30px;
+}
+
+
+#text {
+	float: right;
+	width: 400px;
+	height: 579px;
+	padding: 10px 40px;
+}
+
+footer {
+	height: 50px;
+	padding: 15px 0;
+	background-color: #111;
+	color: white;
+	font-size: 11px;
+	line-height: 2;
 }
