@@ -43,11 +43,21 @@ li a:hover {
 	height: 80px;
 }
 
+.guy {
+	margin: 350px 0 300px 5%;
+	float: left;
+	width: 300px;
+	height: 300px;
+}
+
+
+
 .all {
+	float: right;
 	height: auto;
 	width: 650px;
 	background-color: #e6e6e6;
-	margin: 90px 30%;
+	margin: 90px 28% 90px 0;
 }
 
 .title {

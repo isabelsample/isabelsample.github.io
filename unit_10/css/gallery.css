@@ -42,3 +42,23 @@ li a:hover {
 	background-color: #4CAF50;
 	height: 80px;
 }
+
+.top {
+	float: top;
+	margin: 100px 32% 0 32%;
+}
+
+.bottom {
+	float: bottom;
+	margin: 0 32% 90px 32%;
+}
+
+footer {
+	height: 50px;
+	padding: 15px 0;
+	background-color: #111;
+	color: white;
+	font-size: 11px;
+	clear: both;
+	line-height: 2;
+}
