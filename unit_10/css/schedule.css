@@ -50,7 +50,10 @@ li a:hover {
 	height: 300px;
 }
 
-
+.everything {
+	width: 950;
+	margin: auto;
+}
 
 .all {
 	float: right;
@@ -87,6 +90,19 @@ li a:hover {
 	border-width: 2px;
 }
 
+table, td, th {
+	border-bottom: 2px solid;
+	border-collapse: collapse;
+}
+
+td, th {
+	padding: 26px;
+	line-height: 1.5;
+}
+
+th {
+	font-size: 24px;
+}
 
 
 

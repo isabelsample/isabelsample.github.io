@@ -68,6 +68,10 @@ li a:hover {
 	padding: 0 0 130px 10%;
 }
 
+.all {
+	background-color: #e6e6e6;
+}
+
 .player {
 	padding: 60px 1.25% 50px 10%;
 	width: 25%;
